@@ -7,7 +7,6 @@
     <style>
         <%@ include file="css/style.css"%>
     </style>
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css"/>
 
 </head>
 
@@ -32,7 +31,6 @@
     <%@ include file="libs/sockjs/dist/sockjs.min.js"%>
     <%@ include file="libs/stomp-websocket/lib/stomp.min.js"%>
     <%@ include file="libs/angular/angular.min.js"%>
-
     <%@ include file="config/app.js"%>
     <%@ include file="config/controllers.js"%>
     <%@ include file="config/services.js"%>
